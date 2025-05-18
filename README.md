@@ -101,7 +101,7 @@ The project consists of several key components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/alvaro-brito/llm-by-zero.git
+git clone https://github.com/alvaro-brito/llm-from-zero.git
 cd llm-by-zero
 ```
 
