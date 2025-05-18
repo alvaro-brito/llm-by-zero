@@ -1,4 +1,4 @@
-# LLM-BY-ZERO: Build Your Own Language Model From Scratch
+# LLM-FROM-ZERO: Build Your Own Language Model From Scratch
 
 A complete pipeline for training, evaluating, and deploying transformer-based language models  GPT-like from scratch. This project provides a modular and scalable architecture for experimenting with custom language models.
 
